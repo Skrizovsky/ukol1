@@ -10,13 +10,13 @@ public class Main {
 
         int pocetNakupu = 10;
 
-        String MestoFirmy = "Ostrava";
+        String mestoFirmy = "Ostrava";
 
-        double SpotrebaVLitrech = 12.5;
+        double spotrebaVLitrech = 12.5;
 
-        double DelkaUTP = 200.5;
+        double delkaUTP = 200.5;
 
-        LocalDate DatumNarozeniKlienta = LocalDate.of(1988,11,1);
+        LocalDate datumNarozeniKlienta = LocalDate.of(1988,11,1);
 
         String SPZ = "1A3 1457";
 
@@ -25,10 +25,10 @@ public class Main {
         //vypsani vsech promennych
         System.out.println(jmenoAPrijmeni);
         System.out.println(pocetNakupu);
-        System.out.println(MestoFirmy);
-        System.out.println(SpotrebaVLitrech + "L" + " Na 100KM");
-        System.out.println(DelkaUTP + " m");
-        System.out.println(DatumNarozeniKlienta);
+        System.out.println(mestoFirmy);
+        System.out.println(spotrebaVLitrech + "L" + " Na 100KM");
+        System.out.println(delkaUTP + " m");
+        System.out.println(delkaUTP);
         System.out.println(SPZ);
         System.out.println(IP);
 

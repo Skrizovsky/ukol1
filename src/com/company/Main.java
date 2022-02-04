@@ -28,7 +28,6 @@ public class Main {
         System.out.println(mestoFirmy);
         System.out.println(spotrebaVLitrech + " L/100 Km");
         System.out.println(delkaUTP + " m");
-        System.out.println(delkaUTP);
         System.out.println(datumNarozeniKlienta);
         System.out.println(SPZ);
         System.out.println(IP);

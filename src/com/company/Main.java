@@ -6,9 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String JmenoAPrijmeni = "Jakub Skrizovsky";
+        String jmenoAPrijmeni = "Jakub Skrizovsky";
 
-        int PocetNakupu = 10;
+        int pocetNakupu = 10;
 
         String MestoFirmy = "Ostrava";
 
@@ -23,8 +23,8 @@ public class Main {
         String IP = "192.168.24.0/19";
 
         //vypsani vsech promennych
-        System.out.println(JmenoAPrijmeni);
-        System.out.println(PocetNakupu);
+        System.out.println(jmenoAPrijmeni);
+        System.out.println(pocetNakupu);
         System.out.println(MestoFirmy);
         System.out.println(SpotrebaVLitrech + "L" + " Na 100KM");
         System.out.println(DelkaUTP + " m");
